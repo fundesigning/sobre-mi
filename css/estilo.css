@@ -1,0 +1,56 @@
+body {
+    box-sizing: border-box;
+}
+body {
+    background-color:#E4E4EF;
+    padding: 1em;
+    width: 90%;
+    height: 90%;
+}
+h1{
+    font-family: "Autolinker Regular";
+    color: #026581;
+    font-size: 50px;
+    text-align: right;
+}
+h2 {
+    font-family: "Baloo Tammudu 2 medium";
+    color: #7C7A7A;
+    font-size: 18px;
+    padding-top: 5em;
+    -ms-transform: rotate(90deg); /* IE 9 */
+    transform: rotate(-90deg);
+}
+h3{
+    font-family: "Baloo Tammudu 2";
+    color: #026581;
+    font-size: 20px;
+    text-align: right;
+}
+h4{
+    font-family: "Baloo Tammudu 2 regular";
+    color: #009BC5;
+    font-size: 18px;
+    text-align: center;
+}
+h5{
+    font-family: "Baloo Tammudu 2 regular";
+    color: #009BC5;
+    font-size: 18px;
+    text-align: right;
+    line-height: 39px;
+}
+p{
+    font-family: "Baloo Tammudu 2 regular";
+    color: #009BC5;
+    font-size: 18px;
+    text-align: right;
+}
+.cierre {
+    display: flex;
+    justify-content: flex-end;
+}
+.nota {
+    background-color: #CBDBF1;
+    border-radius: 15px;
+}
